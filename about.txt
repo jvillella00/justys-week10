@@ -2,3 +2,4 @@ Name: Justys
 Program: Software Development
 Goal: Learn how to manage and collaborate on GitHub projects.
 I want to learn how to use pull requests when collaborating.
+This week I learned how to import, fork, and collaborate on GitHub.
